@@ -4,6 +4,8 @@ Super Validator es un pequeño plugin de javascript (jQuery dependiente) para va
 
 ### Como usar
 
+*Para ver un ejemplo elaborado de la utilización, por favor verifica el archivo "form.html" en la que se utiliza el plugin con todos los parámetros.*
+
   - Descarga el archivo superValidator.js
   - Enlaza el archivo en tu documento html
   - Inicializa la clase en una constante
