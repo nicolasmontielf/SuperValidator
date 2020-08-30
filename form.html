@@ -88,6 +88,8 @@
             var validador = new SuperValidator;
             var esValido = validador.makeValidation({
                 "elementReturn": "error_msg",
+                "nodeParent": "form-group",
+                "classError": "is-invalid",
                 "rules": {
                     "email": {
                         "required": "El campo mail es obligatorio.",
